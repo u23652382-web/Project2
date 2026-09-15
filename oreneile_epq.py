@@ -1,6 +1,4 @@
-import math
-
-annual_demand = 12000
+#TThis model calculates the maximum inventory, annual production runs, production run length, and Economic Production Quantity (EPQ)
 setup_cost = 50
 holding_cost = 2
 daily_demand_rate = 40

@@ -1,3 +1,4 @@
+#This model allocates each SKU to Tier A, B, or C based on the annual usage value and cumulative percentage.
 import math
 
 
